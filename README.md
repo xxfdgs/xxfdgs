@@ -34,5 +34,5 @@ Feel free to reach out if you're interested in collaborating on:
 
 ## 📫 Contact Me
 
-- **Email**: [puzexuan21@mials.ucas.ac.cn](mailto:puzexuan21@mials.ucas.ac.cn)
+- **Email**: [puzexuan21@mails.ucas.ac.cn](mailto:puzexuan21@mails.ucas.ac.cn)
 
