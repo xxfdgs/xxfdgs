@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Zexuan Pu! 👋
 
-<!--
-**xxfdgs/xxfdgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a quick overview of what I do and what you can find here.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate programmer specializing in **Chemistry** and **AI development** with a strong focus on **Python**. My work revolves around leveraging cutting-edge technologies to solve complex problems, with a particular interest in:
+
+- 🧠 Neural networks and deep learning
+- 🤖 Genetic algorithms and evolutionary computation
+- 📊 Data analysis and visualization
+
+---
+
+## 🔧 My Tools & Technologies
+
+- **Programming**: Python (NumPy, Pandas, Matplotlib, TensorFlow, PyTorch)
+- **AI Frameworks**: PyTorch, RDKit (for chemical informatics)
+- **Version Control**: Git
+
+---
+
+## 🤝 Let's Collaborate!
+
+Feel free to reach out if you're interested in collaborating on:
+
+- AI-powered solutions for optimization problems.
+- Novel approaches to genetic and evolutionary algorithms.
+- Open-source contributions in AI and data science.
+
+---
+
+## 📫 Contact Me
+
+- **Email**: [puzexuan21@mials.ucas.ac.cn](mailto:puzexuan21@mials.ucas.ac.cn)
+
